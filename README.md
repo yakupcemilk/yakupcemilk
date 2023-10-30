@@ -1,21 +1,21 @@
 <h1 align="center">❖ I'm Yakup Cemil Kayabaş ❖</h1>
 <h3 align="center">Head of Research & Development and Project Manager who loves mechatronics and metallurgy.</h3>
 
-- 🔭 I’m currently working on → **Kuara Language**
+◈ 🔭 I’m currently working on → **Kuara Language**
 
-- 🌱 I’m currently learning؛ **Angular, Typescript and Risc-V Assembly**
+◈ 🌱 I’m currently learning؛ **Angular, Typescript and Risc-V Assembly**
 
-- 🔭 I’m currently developing؛ **New Language Model for AI**
+◈ 🔭 I’m currently developing؛ **New Language Model for AI**
 
-- 🤝 I’m currently helping؛ [Faker Cxx](https://github.com/cieslarmichal/faker-cxx)
+◈ 🤝 I’m currently helping؛ [Faker Cxx](https://github.com/cieslarmichal/faker-cxx)
 
-- 👨‍💻 All of my projects are available at → [github.com/yakupcemilk](github.com/yakupcemilk)
+◈ 👨‍💻 All of my projects are available at → [github.com/yakupcemilk](github.com/yakupcemilk)
 
-- 💬 Ask me about؛ **C++20, Quantum, Mechatronics, Python, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Laravel**
+◈ 💬 Ask me about؛ **C++20, Quantum, Mechatronics, Python, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Laravel**
 
-- 📫 How to reach me؛ **kayabasyakupcemil@gmail.com**
+◈ 📫 How to reach me؛ **kayabasyakupcemil@gmail.com**
 
-- ⚡ Fact about me؛ **I started coding at age of 6**
+◈ ⚡ Fact about me؛ **I started coding at age of 6**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
