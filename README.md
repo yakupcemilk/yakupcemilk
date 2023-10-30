@@ -1,4 +1,4 @@
-<h1 align="center">۩ I'm Yakup Cemil Kayabaş</h1>
+<h1 align="center">۩ I'm Yakup Cemil Kayabaş ۩</h1>
 <h3 align="center">Head of Research & Development and Project Manager who loves mechatronics and metallurgy.</h3>
 
 - 🔭 I’m currently working on → **Kuara Language**
