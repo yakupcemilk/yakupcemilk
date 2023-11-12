@@ -3,7 +3,7 @@
 
 ◈ 🔭 I’m currently working on → **Kuara Language**
 
-◈ 🌱 I’m currently learning؛ **Angular, Typescript and Risc-V Assembly**
+◈ 🌱 I’m currently learning؛ **Risc-V Assembly**
 
 ◈ 🔭 I’m currently developing؛ **New Language Model for AI**
 
@@ -11,7 +11,7 @@
 
 ◈ 👨‍💻 All of my projects are available at → [github.com/yakupcemilk](github.com/yakupcemilk)
 
-◈ 💬 Ask me about؛ **C++20, Quantum, Mechatronics, Python, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Laravel**
+◈ 💬 Ask me about؛ **C++20, Quantum, Mechatronics, Python, JavaScript, TypeScript, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Angular, Laravel**
 
 ◈ 📫 How to reach me؛ **kayabasyakupcemil@gmail.com**
 
