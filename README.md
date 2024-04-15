@@ -3,15 +3,15 @@
 
 ◈ 🔭 I’m currently working on → **Kuara Labs**
 
-◈ 🌱 I’m currently learning؛ **Nothing :(**
+◈ 🌱 I’m currently learning؛ **Teal**
 
-◈ 🔭 I’m currently developing؛ **New Language Model for AI**
+◈ 🔭 I’m currently developing؛ **Projects of Kuaralabs**
 
-◈ 🤝 I’m currently helping؛ **Nothing :(**
+◈ 🤝 I’m currently helping؛ **Teal Compiler Project**
 
 ◈ 👨‍💻 All of my projects are available at → [github.com/yakupcemilk](github.com/yakupcemilk)
 
-◈ 💬 Ask me about؛ **C++20, Quantum, Mechatronics, Python, JavaScript, TypeScript, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Angular, Laravel/Livewire**
+◈ 💬 Ask me about؛ **C++20, Teal/Lua, Quantum, Mechatronics, Python, JavaScript, TypeScript, GUI, AI & ML, Embedded Systems, Native Apps, Simulations, React, Angular, Laravel/Livewire**
 
 ◈ 📫 How to reach me؛ **ycemilkayabas@gmail.com**
 
