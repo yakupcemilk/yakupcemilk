@@ -1,5 +1,5 @@
 <h1 align="center">❖ I'm Yakup Cemil Kayabaş ❖</h1>
-<h3 align="center">Head of Research & Development and Project Manager who loves mechatronics and metallurgy.</h3>
+<h3 align="center">Founder CEO & CTO at Kuaralabs.</h3>
 
 ◈ 🔭 I’m currently working on → **Kuara Labs**
 
