@@ -3,11 +3,11 @@
 
 ◈ 🔭 I’m currently working on → **Kuaralabs**
 
-◈ 🌱 I’m currently learning؛ **Teal**
+◈ 🌱 I’m currently learning؛ **Nothing :(**
 
-◈ 🔭 I’m currently developing؛ **Projects of Kuaralabs**
+◈ 🔭 I’m currently developing؛ **Cruft**
 
-◈ 🤝 I’m currently helping؛ **Teal Compiler Project**
+◈ 🤝 I’m currently helping؛ **Nothing :(**
 
 ◈ 👨‍💻 All of my projects are available at → [github.com/yakupcemilk](github.com/yakupcemilk)
 
